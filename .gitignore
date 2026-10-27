@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+venv/
+
+# Environment variables / secrets
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# LangGraph
+.langgraph_api/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
